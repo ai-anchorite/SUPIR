@@ -1,5 +1,5 @@
-fastapi==0.95.1
-gradio==4.16.0
+fastapi
+gradio==4.43.0
 gradio_imageslider==0.0.17
 gradio_client==0.8.1
 Markdown==3.4.1
